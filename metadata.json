@@ -1,0 +1,7 @@
+{
+  "name": "PharmaAlign AI",
+  "description": "Next-gen Pharma Territory Alignment & Intelligence Platform combining geospatial analytics, Rep360 dashboards, and Generative AI for commercial excellence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
